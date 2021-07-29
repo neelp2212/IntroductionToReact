@@ -41,3 +41,7 @@ const object1 = {
     grades: [2, 3, 5, 3],
     department: 'Stanford University',
   }
+
+
+  const multiply = multiply(9,3)
+  console.log(multiply)
